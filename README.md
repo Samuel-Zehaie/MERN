@@ -1,0 +1,10 @@
+The MERN repository contains multiple assignments/projects created using React.js. The following list contains a description of what the assignment requirements were.
+1. Routes- simple react app that can handle following routes. localhost:3000/home displaying "welcome". . localhost:3000/4: displaying "4".. localhost:3000/hello: displaying "hello"
+2. Faker Api- For this assignment, using 2 javascript libraries to create a simple API that generates User and Company objects depending on the requested route.  will be using Express for the server and Faker for random data generation.
+3. Star War z- As a front-end developer, create a front-end app to navigate the Star Wars API.  Create specific routes on top of index route to display specific characters and a route to display specific planets.
+4. Jokes- To solidify our understanding of Mangoose commands and Express.  Add jokes to a collection in our Mongo database using a POST HTTP Verb.  Use Postman to query the database. create the routes as well as standard CRUD routes and have them working properly.
+5. Products- Full Stack MERN project, create new products on the main page. create a product form, list out all of the prodcuts in our database. create routes so that we can see the specifics for a particular product.  creat an button to update and delete the products finally.
+6. Author- Full Stack MERN project. create a full CRUD app with React, Express, Node, and MongoDB. include backend Validations. The application will let users submit their favorite authors.  list all the authors on the first page. From there, the user may clock on a button to edit or delete each author.
+
+7.  we omitted the 'node_modules'  director from the projects in order to reduce file size when submitting assignments or projects.  if you would like to run the projects or assignments in order to use the code then you will need to install the necessary dependencies.
+8.  once you unzip the file and have it ready, a simple "npm install"  will install all the necessarry dependencies.  after that 'npm start' to run the program.  
