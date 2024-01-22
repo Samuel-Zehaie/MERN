@@ -7,4 +7,4 @@ The MERN repository contains multiple assignments/projects created using React.j
 6. Author- Full Stack MERN project. create a full CRUD app with React, Express, Node, and MongoDB. include backend Validations. The application will let users submit their favorite authors.  list all the authors on the first page. From there, the user may clock on a button to edit or delete each author.
 
 7.  we omitted the 'node_modules'  director from the projects in order to reduce file size when submitting assignments or projects.  if you would like to run the projects or assignments in order to use the code then you will need to install the necessary dependencies.
-8.  once you unzip the file and have it ready, a simple "npm install"  will install all the necessarry dependencies.  after that 'npm start' to run the program.  
+  once you unzip the file and have it ready, a simple "npm install"  will install all the necessarry dependencies.  after that 'npm start' to run the program.  
